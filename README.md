@@ -16,7 +16,7 @@ Proyek ini merupakan sistem otomatisasi kipas angin dan misting berbasis IoT yan
 
 ## Diagram Rangkaian
 
-![Desain Layout](model.png)
+![Desain Layout](./img/model.png)
 
 ## Dokumentasi Foto Proyek
 
@@ -54,3 +54,4 @@ Proyek ini merupakan sistem otomatisasi kipas angin dan misting berbasis IoT yan
 ## Lisensi
 
 Proyek ini bersifat open source dan dapat digunakan untuk keperluan edukasi.
+
